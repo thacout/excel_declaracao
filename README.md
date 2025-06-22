@@ -15,7 +15,7 @@ Resumo (Cálculo do imposto devido ou restituição)
 2. Modelo Simplificado
 Planilha "Dados Pessoais"
 Campo	Valor
-Nome Completo	[____________________]
+Nome Completo	[_________________]
 CPF	[____________________]
 Data de Nascimento	[______]
 Endereço	[____________________]
